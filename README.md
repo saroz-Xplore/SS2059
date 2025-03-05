@@ -1,16 +1,19 @@
-## Hi there 👋
+ 👋 Hey there! I'm SaRoj SiMkhadA
 
-<!--
-**SS2059/SS2059** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 MERN Stack Developer | Passionate Coder | Problem Solver
 
-Here are some ideas to get you started:
+I am a MERN Stack Developer continuously learning and building dynamic web applications. Passionate about clean code, problem-solving, and scalable solutions, I endeavor to create impactful applications that make a difference.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 💡 About Me  
+- 🔥 Exploring MongoDB, Express.js, React, and Node.js 
+- 💻 Love creating full-stack web applications  
+- 🎯 Constantly improving & learning new technologies  
+- ⚡ Interested in open-source projects & collaboration
+
+🛠️ Tech Stack  
+- Frontend: React.js, HTML, CSS, JavaScript  
+- Backend: Node.js, Express.js  
+- Database: MongoDB  
+- Other Tools: GitHub, REST APIs
+
+  ✨ Turning ideas into reality with code !
