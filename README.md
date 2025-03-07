@@ -1,4 +1,4 @@
- 👋 Hey there! I'm SaRoj SiMkhadA
+ 👋 Hey there! I'm Saroj Simkhada
 
 🚀 MERN Stack Developer | Passionate Coder | Problem Solver
 
